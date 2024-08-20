@@ -50,6 +50,8 @@ contract DexSolution {
 }
 ```
 
+## Fund Flow
+
 ```
     -------------------------------
     |         |  Token1 |  Token2 |
@@ -57,7 +59,7 @@ contract DexSolution {
     | Dex     |  100    |  100    |
     | Player  |  10     |  10     |
     -------------------------------
-                  |                       swapAmount = getSwapPrice(from=t1, to=t2, amount=10) = (10   100) / 100 = 10
+                  |                 swapAmount = getSwapPrice(from=t1, to=t2, amount=10) = (10 * 100) / 100 = 10
                   ᐁ
     -------------------------------
     |         |  Token1 |  Token2 |
@@ -65,7 +67,7 @@ contract DexSolution {
     | Dex     |  110    |  90     |
     | Player  |  0      |  20     |
     -------------------------------
-                  |                       swapAmount = getSwapPrice(from=t2, to=t1, amount=20) = (20   110) / 90 = 24
+                  |                 swapAmount = getSwapPrice(from=t2, to=t1, amount=20) = (20 * 110) / 90 = 24
                   ᐁ
     -------------------------------
     |         |  Token1 |  Token2 |
@@ -73,7 +75,7 @@ contract DexSolution {
     | Dex     |  86     |  110    |
     | Player  |  24     |  0      |
     -------------------------------
-                  |                       swapAmount = getSwapPrice(from=t1, to=t2, amount=24.44) = (24   110) / 86 = 30
+                  |                 swapAmount = getSwapPrice(from=t1, to=t2, amount=24.44) = (24 * 110) / 86 = 30
                   ᐁ
     -------------------------------
     |         |  Token1 |  Token2 |
@@ -81,7 +83,7 @@ contract DexSolution {
     | Dex     |  110    |  80     |
     | Player  |  0      |  30     |
     -------------------------------
-                  |                       swapAmount = getSwapPrice(from=t2, to=t1, amount=30) = (30   110) / 80 = 41
+                  |                 swapAmount = getSwapPrice(from=t2, to=t1, amount=30) = (30 * 110) / 80 = 41
                   ᐁ
     -------------------------------
     |         |  Token1 |  Token2 |
@@ -89,7 +91,7 @@ contract DexSolution {
     | Dex     |  69     |  110    |
     | Player  |  41     |  0      |
     -------------------------------
-                  |                       swapAmount = getSwapPrice(from=t2, to=t1, amount=41) = (41   110) / 69 = 65
+                  |                 swapAmount = getSwapPrice(from=t2, to=t1, amount=41) = (41 * 110) / 69 = 65
                   ᐁ
     -------------------------------
     |         |  Token1 |  Token2 |
@@ -97,7 +99,7 @@ contract DexSolution {
     | Dex     |  110    |  45     |
     | Player  |  0      |  65     |
     -------------------------------
-                  |                       swapAmount = getSwapPrice(from=t2, to=t1, amount=45) = (45   110) / 45 = 110
+                  |                 swapAmount = getSwapPrice(from=t2, to=t1, amount=45) = (45 * 110) / 45 = 110
                   |
                   ᐁ
     -------------------------------

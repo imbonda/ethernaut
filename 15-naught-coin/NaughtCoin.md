@@ -1,4 +1,4 @@
-# [Naught Coin, Level-15](https://ethernaut.openzeppelin.com/level/0x80934BE6B8B872B364b470Ca30EaAd8AEAC4f63F)
+# [Naught Coin, Level-15](https://ethernaut.openzeppelin.com/level/0x80934BE6B8B872B364b470Ca30EaAd8AEAC4f63F) ●●●○○
 
 ![naught-coin](https://ethernaut.openzeppelin.com/imgs/BigLevel15.svg)
 

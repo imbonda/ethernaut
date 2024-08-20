@@ -1,4 +1,4 @@
-# [Magic Number, Level-18](https://ethernaut.openzeppelin.com/level/0x2132C7bc11De7A90B87375f282d36100a29f97a9)
+# [Magic Number, Level-18](https://ethernaut.openzeppelin.com/level/0x2132C7bc11De7A90B87375f282d36100a29f97a9) ●●●○○
 
 ![magic-number](https://ethernaut.openzeppelin.com/imgs/BigLevel18.svg)
 

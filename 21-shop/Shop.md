@@ -1,4 +1,4 @@
-# [Shop, Level-21](https://ethernaut.openzeppelin.com/level/0x691eeA9286124c043B82997201E805646b76351a)
+# [Shop, Level-21](https://ethernaut.openzeppelin.com/level/0x691eeA9286124c043B82997201E805646b76351a) ●●○○○
 
 ![shop](https://ethernaut.openzeppelin.com/imgs/BigLevel21.svg)
 

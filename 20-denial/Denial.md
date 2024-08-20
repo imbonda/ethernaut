@@ -1,4 +1,4 @@
-# [Denial, Level-20](https://ethernaut.openzeppelin.com/level/0x2427aF06f748A6adb651aCaB0cA8FbC7EaF802e6)
+# [Denial, Level-20](https://ethernaut.openzeppelin.com/level/0x2427aF06f748A6adb651aCaB0cA8FbC7EaF802e6) ●●●○○
 
 ![denial](https://ethernaut.openzeppelin.com/imgs/BigLevel20.svg)
 

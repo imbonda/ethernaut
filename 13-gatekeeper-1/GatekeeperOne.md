@@ -1,4 +1,4 @@
-# [Gatekeeper One, Level-13](https://ethernaut.openzeppelin.com/level/0xb5858B8EDE0030e46C0Ac1aaAedea8Fb71EF423C)
+# [Gatekeeper One, Level-13](https://ethernaut.openzeppelin.com/level/0xb5858B8EDE0030e46C0Ac1aaAedea8Fb71EF423C) ●●●●○
 
 ![gatekeeper](https://ethernaut.openzeppelin.com/imgs/BigLevel13.svg)
 

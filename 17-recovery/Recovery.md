@@ -1,4 +1,4 @@
-# [Recovery, Level-17](https://ethernaut.openzeppelin.com/level/0xAF98ab8F2e2B24F42C661ed023237f5B7acAB048)
+# [Recovery, Level-17](https://ethernaut.openzeppelin.com/level/0xAF98ab8F2e2B24F42C661ed023237f5B7acAB048) ●●●○○
 
 ![recovery](https://ethernaut.openzeppelin.com/imgs/BigLevel17.svg)
 

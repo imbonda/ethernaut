@@ -1,4 +1,4 @@
-# [Coin Flip, Level-3](https://ethernaut.openzeppelin.com/level/0xA62fE5344FE62AdC1F356447B669E9E6D10abaaF)
+# [Coin Flip, Level-3](https://ethernaut.openzeppelin.com/level/0xA62fE5344FE62AdC1F356447B669E9E6D10abaaF) ●●○○○
 
 ![coin-flip](https://ethernaut.openzeppelin.com/imgs/BigLevel3.svg)
 

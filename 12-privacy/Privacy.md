@@ -1,4 +1,4 @@
-# [Privacy, Level-12](https://ethernaut.openzeppelin.com/level/0x131c3249e115491E83De375171767Af07906eA36)
+# [Privacy, Level-12](https://ethernaut.openzeppelin.com/level/0x131c3249e115491E83De375171767Af07906eA36) ●●●○○
 
 ![privacy](https://ethernaut.openzeppelin.com/imgs/BigLevel12.svg)
 

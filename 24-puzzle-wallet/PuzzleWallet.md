@@ -1,4 +1,4 @@
-# [Puzzle Wallet, Level-24](https://ethernaut.openzeppelin.com/level/0x725595BA16E76ED1F6cC1e1b65A88365cC494824)
+# [Puzzle Wallet, Level-24](https://ethernaut.openzeppelin.com/level/0x725595BA16E76ED1F6cC1e1b65A88365cC494824) ●●●●○
 
 ![puzzle-wallet](https://ethernaut.openzeppelin.com/imgs/BigLevel24.svg)
 

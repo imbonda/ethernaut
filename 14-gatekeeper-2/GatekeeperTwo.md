@@ -1,4 +1,4 @@
-# [Gatekeeper Two, Level-14](https://ethernaut.openzeppelin.com/level/0x0C791D1923c738AC8c4ACFD0A60382eE5FF08a23)
+# [Gatekeeper Two, Level-14](https://ethernaut.openzeppelin.com/level/0x0C791D1923c738AC8c4ACFD0A60382eE5FF08a23) ●●●○○
 
 ![gatekeeper-two](https://ethernaut.openzeppelin.com/imgs/BigLevel14.svg)
 

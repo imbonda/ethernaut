@@ -1,4 +1,4 @@
-# [Delegation, Level-6](https://ethernaut.openzeppelin.com/level/0x73379d8B82Fda494ee59555f333DF7D44483fD58)
+# [Delegation, Level-6](https://ethernaut.openzeppelin.com/level/0x73379d8B82Fda494ee59555f333DF7D44483fD58) ●●○○○
 
 ![delegation](https://ethernaut.openzeppelin.com/imgs/BigLevel6.svg)
 
