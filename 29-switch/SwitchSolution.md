@@ -23,7 +23,6 @@ This way we **shift** the data pass the first 72 bytes that will be used only by
 ##
 
 ```js
-// Note: When 
 await web3.eth.sendTransaction({
     from: player,
     to: contract.address,
