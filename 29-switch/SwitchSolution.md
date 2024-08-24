@@ -16,9 +16,9 @@ So, the **"normal"** value for `offset` would be 32, and the `data` would start 
 
 ## The Exploit
 
-We can change edit the `offset` to a higher number after the first 72 bytes of `calldata` (i.e. 68 bytes if we don't count the first 4 bytes of `method signature`).
+We can change the `offset` to a higher number that will follow the first 72 bytes of `calldata` (i.e. 68 bytes if we don't count the first 4 bytes of `method signature`).
 <br>
-This way we **shift** the data to follow the first 72 bytes that will be used to pass the modifier's validation.
+This way we **shift** the data pass the first 72 bytes that will be used only by the modifier to perform it's validation.
 
 ##
 
