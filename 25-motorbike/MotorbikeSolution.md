@@ -130,6 +130,6 @@ Submit the level via `BypassEIP6780.submitLevel()`.
 #### NOTE:
 The `level instance` will belong to `BypassEIP6780` contract and not to the EOA player.
 <br>
-Therefore the solution will not be recorded under the player EOA :(
+Therefore the solution will not be recorded under the player's EOA :(
 <br>
 Creating a `"middleman"` contract that will do a delegate call to create the `level instance` will not work since it would update the `"middleman"` contract's storage rather than the storage of the `ethernaut` contract (as we saw earlier).
